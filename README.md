@@ -117,12 +117,12 @@ The appplication successfully fetched weather information for the specified loca
 
 ### What I Learned
 
-AWS S3 bucket creation and management
-Environment variable management for secure API keys
-Python best practices for API integration
-Git workflow for project development
-Error handling in distributed systems
-Cloud resource management
+- AWS S3 bucket creation and management,
+- Environment variable management for secure API keys
+- Python best practices for API integration
+- Git workflow for project development
+- Error handling in distributed systems
+- Cloud resource management
 
 ### Challenges & Error Encountered:
  My first attemot at running the command:
