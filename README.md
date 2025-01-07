@@ -17,6 +17,10 @@ Welcome to Weather Dashboard, this project is a Simple Weather Data Collection S
 
 Weather Dashboard is a Simple Weather Data Collection System that is built with Python. This system  create a Weather Dashboard by sending an API request to an external API. The API request fetches real-time weather data for multiple cities, which is then transformed and created into a data structure. This data structure is then automatically stores weather data in AWS S3 as a JSON file. Finally the system timestamps all data for historical tracking. This project aims to demonstrate best practices in Java development, including project structure, coding standards, and documentation.
 
+## Architectural Design:
+![image](https://github.com/user-attachments/assets/b8572e14-b39a-4db2-8333-7dce793e732d)
+
+
 ## Features
 
 - Fetches real-time weather data for multiple cities
