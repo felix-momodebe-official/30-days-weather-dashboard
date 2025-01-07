@@ -98,21 +98,20 @@ Weather Dashboard is a Simple Weather Data Collection System that is built with 
 6. Configure aws credentials
   ```sh
      aws configure
-     ```
+     
      AWS Access Key ID: your_aws-access-key
      AWS Secret Access Key: your_aws_secret_key
+   ```
 
 7. Run the application:
  ```sh
     python3 src/weather_dashboard.py
-    ```
-   
-
-## Usage
+ ```
+### Usage
 
 The appplication successfully fetched weather information for the specified locations and saved the data in S3.
 
-## What I Learned
+### What I Learned
 
 AWS S3 bucket creation and management
 Environment variable management for secure API keys
@@ -121,7 +120,7 @@ Git workflow for project development
 Error handling in distributed systems
 Cloud resource management
 
-## Challenges & Error Encounterd:
+### Challenges & Error Encountered:
  My first attemot at running the command:
   ```sh
    pip install -r requirements.txt
@@ -139,25 +138,25 @@ I got an error as shown in the image below:
   ```sh
   sudo apt install python3-venv 
   ```
-  # Create a virtual environment 
+  ### Create a virtual environment 
   ```sh
    python3 -m venv myenv 
-   ```
-   # Activate the virtual environment 
+  ```
+  ### Activate the virtual environment 
    ```sh
    source myenv/bin/activate 
    ```
-   # Now install the requirements 
+  ### Now install the requirements 
    ```sh
    pip install -r requirements.txt
    ```
    ![alt text](image-1.png)
 
-## Contributing
+  ### Contributing
 
 We welcome contributions to improve The Weather Dashboard Application. If you have a feature request, bug report, or improvement suggestion, please open an issue or submit a pull request.
 
-## Future Enhancement:
+### Future Enhancement:
 
 Add weather forecasting
 Implement data visualization
@@ -175,11 +174,11 @@ Set up CI/CD pipeline
 5. Push to the branch (`git push origin feature-branch`)
 6. Open a pull request
 
-## License
+### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+### Contact
 
 For any questions or inquiries, please reach out to us at [ShaeInTheCloud](https://www.youtube.com/@ShaeInTheCloud) or [SuccPinn Cloud & DevOps + AI](https://www.youtube.com/@SuccPinnCloudDevOps)
 
