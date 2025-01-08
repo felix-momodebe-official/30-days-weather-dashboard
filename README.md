@@ -115,6 +115,9 @@ Weather Dashboard is a Simple Weather Data Collection System that is built with 
 
 The appplication successfully fetched weather information for the specified locations and saved the data in S3.
 
+![image](https://github.com/user-attachments/assets/bdf6fcd9-7a86-45e2-ac89-7d349ede6921)
+
+
 ### What I Learned
 
 - AWS S3 bucket creation and management,
